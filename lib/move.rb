@@ -11,3 +11,7 @@ def input_to_index(space)
   space -= 1
   return space.to_i
 end
+
+def move()
+
+end
