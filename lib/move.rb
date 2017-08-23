@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(space)
-  space.to_i
+  space = space.to_i
   return space -= 1
 end
 
