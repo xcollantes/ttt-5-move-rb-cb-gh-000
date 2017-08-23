@@ -13,5 +13,6 @@ def input_to_index(space)
 end
 
 def move(board, index, player_char = 'X')
+
   return board
 end
